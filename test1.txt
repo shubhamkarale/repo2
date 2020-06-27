@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E025-6797
+
+ Directory of C:\Users\shubh\OneDrive\Desktop\My project
+
+27-06-2020  20:44    <DIR>          .
+27-06-2020  20:44    <DIR>          ..
+27-06-2020  20:44                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,524,376,064 bytes free
